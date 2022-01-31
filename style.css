@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    background-color: #2659DF;
+    color: white;
+}
+  
+  h2 {
+    color: #3368FF;
+    text-align: center;
+  }
+  img {
+    width: 550px;
+    height: 350px;
+    display: inline;
+    padding-bottom: 30px;
+  }
+  p {
+      text-align:justify; 
+      padding-top: 30px;
+      padding-right: 200px;
+      padding-left: 200px;
+      padding-bottom: 80px;     
+    }
+
+    
+
+  @media screen and (max-width: 500px) {
+    .column {
+      width: 100%;
+    }
+  }

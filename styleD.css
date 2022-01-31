@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    background-color: #2659DF;
+    color: white;
+  }
+  img {
+    padding-top: 30px;
+    width: 600px;
+    height: 500px;  
+  }
+p {
+ text-align: left; 
+ padding-top: 30px;
+ padding-left: 100px;
+ padding-right: 100px;
+}
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}

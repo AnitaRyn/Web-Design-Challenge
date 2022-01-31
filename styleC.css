@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    background-color: #3368FF;
+    color: white;
+}
+  h4 {
+    padding-top: 20px;
+    color: #3368FF;
+  }
+  img {
+    padding-top: 30px;
+    width: 450px;
+    height: 400px;
+    
+  }
+  p {
+    text-align: left; 
+    padding-top: 30px;
+    padding-right: 100px;
+   }
+  @media screen and (max-width: 500px) {
+    .column {
+      width: 100%;
+    }
+  }

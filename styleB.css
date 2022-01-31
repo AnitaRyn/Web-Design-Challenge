@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    background-color: #3368FF;
+    color: white;
+  }
+  p {
+    text-align: left; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+   }
